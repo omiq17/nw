@@ -788,3 +788,18 @@ footer .footer-copyright {
 #blog {
   text-align: justify;
 }
+
+div.c-wrapper{
+    width: 80%; /* for example */
+    margin: auto;
+}
+#slider>h2 {
+  text-align: center;
+}
+
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img{
+width: 100%; /* use this, or not */
+margin: auto;
+height: 80vh;
+}
